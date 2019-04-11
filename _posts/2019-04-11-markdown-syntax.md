@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**.
 Nullam dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-
+# image test
 <a href='/assets/img/logo.png'><a src='/assets/img/logo.png'>
 {: .image-right}
 {% highlight html %}
