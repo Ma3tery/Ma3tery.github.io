@@ -56,7 +56,7 @@ Nullam dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
 # image test
-<a href='https://Ma3tery.github.io/assets/img/logo.png'><a src='https://Ma3tery.github.io/assets/img/logo.png'>
+<a href='https://Ma3tery.github.io/assets/img/logo.png'><img src='https://Ma3tery.github.io/assets/img/logo.png'>
 {: .image-right}
 {% highlight html %}
 ![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
